@@ -20,6 +20,7 @@ p {
    font-family:Arial, sans-serif;
 }
 
+
 img{
     /* You will want to change this to use a fluid measurement! */
     width:150px;
@@ -38,7 +39,7 @@ main{
   /* Set the display display */
   display: grid;
   /* Set the template columns */
-  
+  grid-remplate-columns: 200px 200px 200px;    
   /* Set the justification  */
   
 }
