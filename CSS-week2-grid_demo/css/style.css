@@ -41,6 +41,7 @@ main{
   /* Set the template columns */
   grid-template-columns: 200px 200px 200px;    
   /* Set the justification  */
+  justify-content: center;
   
 }
 
