@@ -23,8 +23,8 @@ p {
 
 img{
     /* You will want to change this to use a fluid measurement! */
-    width:150px;
-    height:150px;
+    width:100%;
+    
 }
 
 p{
