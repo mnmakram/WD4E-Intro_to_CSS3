@@ -39,7 +39,7 @@ main{
   /* Set the display display */
   display: grid; 
   /* Set the template columns */
-  
+  grid-templete-columns: 200px 200px 200px;
   /* Set the justification  */
   
  }
