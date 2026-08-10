@@ -37,7 +37,7 @@ div{
 
 main{
   /* Set the display display */
-   
+  display: grid; 
   /* Set the template columns */
   
   /* Set the justification  */
