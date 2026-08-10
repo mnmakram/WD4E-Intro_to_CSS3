@@ -35,7 +35,7 @@ div{
 
 main{
     /* Set the display to flex */
-
+    display: flex;
     /* Change the value of flex-direction */
 
     /* Change the value of flex-wrap; */
