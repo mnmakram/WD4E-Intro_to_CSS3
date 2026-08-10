@@ -39,7 +39,7 @@ main{
     /* Change the value of flex-direction */
     flex-direction: column;
     /* Change the value of flex-wrap; */
-    
+    flex-wrap: wrap;
     /* Change the value of justify-content */
 }
 
