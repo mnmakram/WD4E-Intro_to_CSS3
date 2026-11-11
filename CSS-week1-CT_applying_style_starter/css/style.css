@@ -1,1 +1,15 @@
 /* Empty Style sheet for you to use */
+p{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Arial', 'sans-serif';
+}
+
+img{
+  width: 50%;
+}
+
+
